@@ -1,0 +1,238 @@
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\DB.db
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\Pombos.exe.config
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\Pombos.exe.manifest
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\Pombos.application
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\Pombos.exe
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\Pombos.pdb
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\netstandard.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.AppContext.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Collections.Concurrent.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Collections.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Collections.Specialized.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.ComponentModel.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.ComponentModel.Primitives.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.ComponentModel.TypeConverter.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Console.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Data.Common.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Diagnostics.Contracts.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Diagnostics.Debug.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Diagnostics.Process.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Diagnostics.StackTrace.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Diagnostics.Tools.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Diagnostics.TraceSource.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Diagnostics.Tracing.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Drawing.Primitives.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Dynamic.Runtime.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Globalization.Calendars.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Globalization.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Globalization.Extensions.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.IO.Compression.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.IO.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.IO.FileSystem.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.IO.FileSystem.Watcher.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.IO.IsolatedStorage.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.IO.MemoryMappedFiles.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.IO.Pipes.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Linq.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Linq.Expressions.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Linq.Parallel.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Linq.Queryable.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Net.Http.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Net.NameResolution.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Net.NetworkInformation.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Net.Ping.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Net.Primitives.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Net.Requests.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Net.Security.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Net.Sockets.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Net.WebHeaderCollection.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Net.WebSockets.Client.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Net.WebSockets.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.ObjectModel.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Reflection.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Reflection.Extensions.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Reflection.Primitives.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Resources.Reader.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Resources.ResourceManager.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Resources.Writer.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Runtime.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Runtime.Extensions.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Runtime.Handles.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Runtime.InteropServices.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Runtime.Numerics.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Runtime.Serialization.Formatters.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Runtime.Serialization.Json.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Runtime.Serialization.Primitives.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Runtime.Serialization.Xml.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Security.Claims.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Security.Cryptography.Csp.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Security.Principal.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Security.SecureString.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Text.Encoding.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Text.Encoding.Extensions.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Text.RegularExpressions.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Threading.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Threading.Overlapped.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Threading.Tasks.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Threading.Tasks.Parallel.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Threading.Thread.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Threading.ThreadPool.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Threading.Timer.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.ValueTuple.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Xml.XDocument.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Xml.XmlDocument.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Xml.XmlSerializer.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Xml.XPath.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Xml.XPath.XDocument.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\Dapper.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Data.SQLite.dll
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\Dapper.xml
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Data.SQLite.xml
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\obj\Release\Columbus 2019.csprojAssemblyReference.cache
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\obj\Release\Pombos.exe.config
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\obj\Release\Pombos.Form1.resources
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\obj\Release\Pombos.Form2.resources
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\obj\Release\Pombos.Properties.Resources.resources
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\obj\Release\Columbus 2019.csproj.GenerateResource.cache
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\obj\Release\Columbus 2019.csproj.CoreCompileInputs.cache
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\obj\Release\Pombos.exe.manifest
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\obj\Release\Pombos.application
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\obj\Release\Columbus 2019.csproj.CopyComplete
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\obj\Release\Pombos.exe
+C:\Users\Synpse\Desktop\cpDB\Pombos\Pombos\obj\Release\Pombos.pdb
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\DB.db
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\netstandard.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.AppContext.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Collections.Concurrent.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Collections.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Collections.Specialized.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.ComponentModel.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.ComponentModel.Primitives.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.ComponentModel.TypeConverter.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Console.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Data.Common.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Diagnostics.Contracts.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Diagnostics.Debug.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Diagnostics.Process.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Diagnostics.StackTrace.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Diagnostics.Tools.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Diagnostics.TraceSource.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Diagnostics.Tracing.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Drawing.Primitives.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Dynamic.Runtime.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Globalization.Calendars.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Globalization.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Globalization.Extensions.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.IO.Compression.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.IO.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.IO.FileSystem.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.IO.FileSystem.Watcher.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.IO.IsolatedStorage.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.IO.MemoryMappedFiles.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.IO.Pipes.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Linq.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Linq.Expressions.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Linq.Parallel.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Linq.Queryable.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Net.Http.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Net.NameResolution.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Net.NetworkInformation.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Net.Ping.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Net.Primitives.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Net.Requests.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Net.Security.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Net.Sockets.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Net.WebHeaderCollection.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Net.WebSockets.Client.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Net.WebSockets.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.ObjectModel.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Reflection.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Reflection.Extensions.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Reflection.Primitives.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Resources.Reader.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Resources.ResourceManager.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Resources.Writer.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Runtime.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Runtime.Extensions.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Runtime.Handles.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Runtime.InteropServices.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Runtime.Numerics.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Runtime.Serialization.Formatters.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Runtime.Serialization.Json.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Runtime.Serialization.Primitives.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Runtime.Serialization.Xml.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Security.Claims.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Security.Cryptography.Csp.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Security.Principal.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Security.SecureString.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Text.Encoding.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Text.Encoding.Extensions.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Text.RegularExpressions.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Threading.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Threading.Overlapped.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Threading.Tasks.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Threading.Tasks.Parallel.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Threading.Thread.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Threading.ThreadPool.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Threading.Timer.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.ValueTuple.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Xml.XDocument.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Xml.XmlDocument.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Xml.XmlSerializer.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Xml.XPath.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Xml.XPath.XDocument.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\Dapper.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Data.SQLite.dll
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\Dapper.xml
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Data.SQLite.xml
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\obj\Release\Columbus2019.Form1.resources
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\obj\Release\Columbus2019.Form2.resources
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\obj\Release\Columbus 2019.csproj.GenerateResource.cache
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\obj\Release\Columbus 2019.csproj.CoreCompileInputs.cache
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\obj\Release\Columbus 2019.csproj.CopyComplete
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\Columbus 2019.exe.config
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\Columbus 2019.exe.manifest
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\Columbus 2019.application
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\Columbus 2019.exe
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\bin\Release\Columbus 2019.pdb
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\obj\Release\Columbus 2019.csprojAssemblyReference.cache
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\obj\Release\Columbus 2019.exe.config
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\obj\Release\Columbus2019.Properties.Resources.resources
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\obj\Release\Columbus 2019.exe.manifest
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\obj\Release\Columbus 2019.application
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\obj\Release\Columbus 2019.exe
+C:\Users\Synpse\Desktop\cpDB\Columbus 2019\Pombos\obj\Release\Columbus 2019.pdb
